@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302654724131",
+    "firebase_url": "https://learn2play-e0dbe-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "learn2play-e0dbe",
+    "storage_bucket": "learn2play-e0dbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302654724131:android:c702a82d3203e079e63996",
+        "android_client_info": {
+          "package_name": "com.example.learn2play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302654724131-5n9tjn2hpolme0v0oqt19bec88751kic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC7fkpokwG99O3UVdgHOTQWsuil4Q6xKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302654724131-5n9tjn2hpolme0v0oqt19bec88751kic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
